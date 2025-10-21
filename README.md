@@ -67,7 +67,7 @@
 
 如有任何问题，请通过以下方式联系：
 *   **邮箱**： 1944123602@qq.com
-*   **项目Issue**： [GitHub Issues](https://github.com/[您的用户名]/[仓库名]/issues)
+*   **项目Issue**： [GitHub Issues](git@github.com:Txinyan/-.git)
 
 ## 更新日志
 *   **v1.0 (2025-10-21)**： 初始版本，发布 254 张图像。
