@@ -33,11 +33,8 @@
 
 ## 下载与使用
 
-1.  您可以直接通过Git克隆本项目：
-    ```bash
-    git clone https://github.com/[您的用户名]/[仓库名].git
-    ```
-2.  或者直接下载ZIP压缩包。
+1.  您可以直接通过Google Drive下载项目(785MB)：
+   https://drive.google.com/drive/folders/1yuAiMU0VwWMmT0p_fbmUsDgXk2unWq38?usp=sharing
 
 ## 贡献
 
