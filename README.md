@@ -28,7 +28,7 @@
 
 ## 使用许可
 
-*   **限制**： 此数据集仅供**研究和非商业用途**。如需商业使用，请联系 1944123602@qq.com。
+*   **限制**： 此数据集仅供**研究和非商业用途**。
 *   **免责声明**： 使用者需自行承担数据使用风险，作者不对数据使用带来的任何后果负责。
 
 ## 下载与使用
@@ -49,7 +49,7 @@
 
 如果您在研究中使用了本数据集，请按以下格式引用：
 
-```bibtex
+bibtex
 @misc{rebar_tie_robot_dataset,
   author = {Tan, Xinyan and Zhang, Weiming},
   title = {Rebar-tying Robot based on machine vision and coverage path planning},
@@ -59,9 +59,9 @@
   year={2024},
   publisher={Elsevier},
   doi={10.1016/j.robot.2024.104826}
-  howpublished = {\url{https://github.com/[您的用户名]/[仓库名]}}
+ }
 }
-```
+
 
 ## 联系方式
 
