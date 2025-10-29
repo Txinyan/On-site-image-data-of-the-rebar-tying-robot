@@ -36,14 +36,6 @@
 1.  您可以直接通过Google Drive下载项目(785MB)：
    https://drive.google.com/drive/folders/1yuAiMU0VwWMmT0p_fbmUsDgXk2unWq38?usp=sharing
 
-## 贡献
-
-我们欢迎任何形式的贡献！如果您有：
-*   更多的现场图片数据。
-*   补充的标注。
-*   对数据集的改进建议。
-
-请通过 **Pull Request** 或 **提交 Issue** 的方式参与贡献。
 
 ## 引用
 
